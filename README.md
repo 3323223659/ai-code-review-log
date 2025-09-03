@@ -24,7 +24,7 @@
 
 请前往主仓库查看完整使用文档（含工作流 YAML、Secrets 明细、故障排查等）：
 
-- AI 代码评审 SDK 使用说明：`https://github.com/3323223659/ai-code-review`
+- AI 代码评审 SDK 使用说明：https://github.com/3323223659/ai-code-review
 
 ---
 
