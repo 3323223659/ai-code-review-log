@@ -1,4 +1,4 @@
-# ai-code-review-log 代码评审日志仓库（Log Repo）
+# spring-ai-code-review-log 代码评审日志仓库（Log Repo）
 
 本仓库用于存放由 AI 代码评审 SDK 生成的“评审日志/记录”。日志由目标代码仓库的 GitHub Actions 在每次 Push/PR 触发后自动写入本仓库，便于统一留痕与回溯。
 
@@ -24,7 +24,7 @@
 
 请前往主仓库查看完整使用文档（含工作流 YAML、Secrets 明细、故障排查等）：
 
-- AI 代码评审 SDK 使用说明：https://github.com/3323223659/ai-code-review
+- AI 代码评审 SDK 使用说明：https://github.com/3323223659/spring-ai-code-review-sdk
 
 ---
 
